@@ -1,0 +1,30 @@
+{
+  "name": "WebMonth-Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIRTIKUMARKK21/WebMonth-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIRTIKUMARKK21/WebMonth-Backend/issues"
+  },
+  "homepage": "https://github.com/KIRTIKUMARKK21/WebMonth-Backend#readme",
+  "dependencies": {
+    "bcrpyt": "^2.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  }
+}

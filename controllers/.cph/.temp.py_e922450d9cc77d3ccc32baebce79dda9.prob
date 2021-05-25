@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"/home/kirti/Desktop/WebMonth-Backend/controllers/temp.py","tests":[{"id":1621686093207,"input":"2 2 2","output":"aabb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kirti/Desktop/WebMonth-Backend/controllers/temp.py","group":"local","local":true}
